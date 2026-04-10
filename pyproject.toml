@@ -1,0 +1,12 @@
+[project]
+name = "esp32-scan-server"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "opencv-python>=4.13.0.92",
+    "pyautogui>=0.9.54",
+    "pyperclip>=1.11.0",
+    "pyzbar>=0.1.9",
+]
